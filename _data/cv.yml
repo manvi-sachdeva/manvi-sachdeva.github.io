@@ -1,0 +1,106 @@
+cv:
+  name: Manvi Sachdeva
+  label: Postdoctoral Fellow — Ultrafast Spectroscopy & Semiconductor Nanomaterials
+  email: manvisachdeva121@gmail.com
+  location: Roorkee, India (open to relocation worldwide)
+  image: ""
+  summary: >
+    PhD physicist with 6+ years of hands-on experience in ultrafast spectroscopy, semiconductor nanomaterials synthesis
+    (including thin-film deposition) and advanced materials characterization. Builds, aligns and troubleshoots complex
+    laser-based and vacuum/controlled-atmosphere instrumentation. Strong in quantitative data analysis and kinetic
+    modelling, and experienced in designing structured experiments that link process conditions to material and device performance.
+
+  social_networks:
+    - network: LinkedIn
+      username: manvi-sachdeva-96ab27159
+
+  sections:
+    Experience:
+      - company: Department of Chemistry, Indian Institute of Technology Roorkee
+        position: Institute Postdoctoral Fellow
+        location: Roorkee, India
+        start_date: 2026-02
+        end_date: present
+        highlights:
+          - Design and run experiments on photoactive semiconductor materials for energy conversion and photodetection, from material preparation (sputtered and thermally evaporated thin films) through characterization to performance evaluation.
+          - Build, align and optimize laser-based measurement platforms operating under vacuum and controlled-atmosphere conditions. Define measurement protocols and acceptance criteria for repeatable data collection.
+          - Diagnose and fix system- and sample-level issues affecting measurement stability, finding root causes across optics, electronics and the sample environment.
+
+      - company: Institute of Nanoscience and Technology, IISER Mohali
+        position: Senior Research Fellow (Doctoral Researcher)
+        location: Mohali, India
+        start_date: 2022-08
+        end_date: 2026-02
+        highlights:
+          - Developed and refined hot-injection and hydrothermal synthesis routes, plus sputtering and thermal-evaporation thin-film deposition, for semiconductor nanocrystals, chalcogenide films and heterostructures. Varied precursor chemistry, temperature and time to tune stoichiometry, defect density and interfacial quality.
+          - Ran structured experiment matrices across composition and process variables to define process windows and specification limits for reproducible material quality.
+          - Characterized materials and interfaces with XRD, XPS/UPS, AFM, TEM and Raman, and correlated surface and bulk properties with optical and electrical behaviour.
+          - Analyzed large multidimensional datasets with global/target analysis and kinetic modelling to extract carrier lifetimes, transfer rates and recombination pathways.
+          - Published 5 first-author and 10 co-author peer-reviewed papers.
+
+      - company: Institute of Nanoscience and Technology, IISER Mohali
+        position: Junior Research Fellow
+        location: Mohali, India
+        start_date: 2020-08
+        end_date: 2022-07
+        highlights:
+          - Set up baseline synthesis and characterization workflows for semiconductor nanomaterials, including reproducibility checks and batch-to-batch comparison.
+          - Operated and maintained shared characterization tools (TCSPC, UV–Vis–NIR, XPS, XRD). Trained and supervised junior users and coordinated procurement of consumables and optics.
+
+    Education:
+      - institution: Institute of Nanoscience and Technology, IISER Mohali
+        location: Mohali, India
+        area: Physics
+        studyType: Ph.D.
+        start_date: 2020-08
+        end_date: 2026-02
+        score: "CGPA: 9.3/10"
+        highlights:
+          - "Thesis: Unravelling the Ultrafast Charge Carrier Dynamics in Near-Infrared Active Semiconductor Plasmonics and Their Heterostructures"
+          - "Advisors: Prof. Hirendra Nath Ghosh, Prof. Debabrata Patra"
+
+      - institution: University of Delhi
+        location: Delhi, India
+        area: Physics
+        studyType: M.Sc.
+        end_date: 2020
+
+      - institution: Sri Venkateswara College, University of Delhi
+        location: Delhi, India
+        area: Physics
+        studyType: B.Sc. (Hons.)
+        end_date: 2017
+        score: "84.8%"
+
+    Skills:
+      - name: Lasers & Nonlinear Optics
+        icon: fa-solid fa-wave-square
+        keywords: "Ti:Sapphire oscillator/regenerative amplifier, OPA, Pump–probe, Optical pump–terahertz probe, Pulse characterization"
+      - name: Optical Systems
+        icon: fa-solid fa-crosshairs
+        keywords: "Free-space alignment, Beam steering, Spatial/temporal overlap, Cryogenic & vacuum sample environments, Laser troubleshooting"
+      - name: Spectroscopy
+        icon: fa-solid fa-chart-line
+        keywords: "Transient absorption, Vibrational sum-frequency generation, Steady-state & time-resolved photoluminescence, TCSPC, UV–Vis–NIR absorption"
+      - name: Instrumentation
+        icon: fa-solid fa-microscope
+        keywords: "Spectrometer, Monochromator, Detector optimization & signal acquisition, Source-meter based I–V, Photodetector characterization"
+      - name: Synthesis & Thin-Film Deposition
+        icon: fa-solid fa-flask
+        keywords: "Hot-injection colloidal synthesis, Hydrothermal synthesis, Heterostructure/core–shell growth, Surface & ligand/interface engineering, Sputtering, Thermal evaporation"
+      - name: Materials Characterization
+        icon: fa-solid fa-atom
+        keywords: "XRD, XPS/UPS, AFM, TEM, Raman spectroscopy"
+      - name: Software
+        icon: fa-solid fa-code
+        keywords: "OriginPro, Glotaran (global/target analysis), Python (data analysis & fitting), LabVIEW (developing)"
+
+    Awards:
+      - title: Best Poster Award
+        date: 2023
+        awarder: 10th Theme Meeting on Ultrafast Sciences, CSIR–NPL
+      - title: Best Poster Award
+        date: 2022
+        awarder: Research Scholar Day, INST Mohali
+      - title: CSIR Research Fellowship (5 years)
+        awarder: Council of Scientific & Industrial Research, India

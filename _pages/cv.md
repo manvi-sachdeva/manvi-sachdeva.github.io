@@ -1,0 +1,12 @@
+---
+layout: cv
+permalink: /cv/
+title: CV
+nav: true
+nav_order: 3
+# cv_pdf: /assets/pdf/Manvi_Sachdeva_CV.pdf # add a PDF CV (without phone number) to show a download button
+cv_format: rendercv # options: rendercv, jsonresume
+description: Ultrafast spectroscopy, semiconductor nanomaterials and thin films.
+toc:
+  sidebar: left
+---
